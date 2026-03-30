@@ -1,0 +1,16 @@
+%{
+  "bandit": {:git, "https://github.com/mtrudel/bandit.git", "6a1976c069e215e4c7d1c250d039288e5b88d436", []},
+  "cowboy": {:git, "https://github.com/ninenines/cowboy.git", "2a5515a2d2fd26b595c3dd5c9d0d905211712890", []},
+  "cowboy_telemetry": {:git, "https://github.com/beam-telemetry/cowboy_telemetry.git", "791c260ebe70855b4fde9e1aeb29b2bfee7660e8", []},
+  "cowlib": {:git, "https://github.com/ninenines/cowlib.git", "92b905580bffb55d884ff07bcec660631304332b", []},
+  "jason": {:git, "https://github.com/michalmuskala/jason.git", "984bc078eb4b2084104751c7f1c5290b8338e06b", []},
+  "mime": {:git, "https://github.com/elixir-plug/mime.git", "354c42636eada31d2cfc41717f9256677689a919", []},
+  "phoenix": {:git, "https://github.com/phoenixframework/phoenix.git", "76a586cc49c3f8ef496d1c58ba2d070b5094e423", []},
+  "phoenix_html": {:git, "https://github.com/phoenixframework/phoenix_html.git", "8cfd3e37ff9ef0924812a78cf6c9d27cdbd4e726", []},
+  "phoenix_live_view": {:git, "https://github.com/phoenixframework/phoenix_live_view.git", "f5ee3f88b91cd51f0711c07e207ec992cc64b3f3", []},
+  "plug": {:git, "https://github.com/elixir-plug/plug.git", "e83b698aa44cf36c33534bcd47e83b06812fb81f", []},
+  "plug_cowboy": {:git, "https://github.com/elixir-plug/plug_cowboy.git", "9a2873e330cd71f04918eb7c26a98ff095a000d9", []},
+  "plug_crypto": {:git, "https://github.com/elixir-plug/plug_crypto.git", "c326c3c743b18cf5f4b12735d06dd90c72dcd779", []},
+  "ranch": {:git, "https://github.com/ninenines/ranch.git", "d731333339084c7518e6c167b6120779a8cca027", []},
+  "telemetry": {:git, "https://github.com/beam-telemetry/telemetry.git", "13a380ed0214a8f5824c99ef9897db50de84c90c", []},
+}
